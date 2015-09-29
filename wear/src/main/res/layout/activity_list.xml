@@ -6,7 +6,7 @@
     android:id="@+id/watch_list"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="onyxmotion.onyx.ListActivity"
+    tools:context="onyxmotion.basketballcoach.ListActivity"
     tools:deviceIds="wear">
 
 </WearableListView>
