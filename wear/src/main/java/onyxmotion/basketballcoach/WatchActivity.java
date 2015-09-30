@@ -80,10 +80,10 @@ public class WatchActivity extends Activity {
     }
 
 	public static final String
-		TIP1 = "Keep your elbows in.",
-		TIP2 = "Point your toes at the net.",
-		TIP3 = "Make sure your legs and arms are launching at the same time.",
-		TIP4 = "Aim for a higher arc.",
+		TIP1 = "Keep feet a little wider than shoulder-width apart to improve stance",
+		TIP2 = "For great posture, tilt your waist, not your hips.",
+		TIP3 = "Start your down swing with your lower body then the upper body.",
+		TIP4 = "Power in golf comes from your legs, coil and release.",
 		TIP5 = "Snap your wrist for the follow through and hold for 3 seconds.",
 		TIP6 = "Take a deep breath. Do three dribbles.  Shoot.",
 		TIP7 = "You're doing great.",

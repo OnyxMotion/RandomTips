@@ -19,7 +19,7 @@
             android:id="@+id/button"
             android:text="Smart Tips ON"
             android:onClick="onClick"
-            android:layout_alignParentTop="true"
+            android:layout_above="@+id/intro"
             android:layout_centerHorizontal="true" />
 
         <TextView
