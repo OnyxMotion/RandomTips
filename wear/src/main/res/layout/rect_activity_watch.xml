@@ -31,7 +31,7 @@
             android:layout_marginRight="16dp"
             android:gravity="center"
             android:fontFamily="sans-serif-condensed-light"
-            android:text="Keep your elbows in."
+            android:text="READY?"
             android:layout_centerVertical="true"
             android:layout_centerHorizontal="true"
             android:textColor="#ffffff"

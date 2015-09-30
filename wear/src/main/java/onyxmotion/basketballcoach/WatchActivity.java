@@ -82,7 +82,7 @@ public class WatchActivity extends Activity {
 	public static final String
 		TIP1 = "Exaggerate your follow through to keep it consistent.",
 		TIP2 = "Never let the ball bounce twice.  Run for every ball.",
-		TIP3 = "Prepare-Turn your hips and shoulders before the ball gets to your side.",
+		TIP3 = "Prepare-Turn your hips and shoulders before the ball gets to you.",
 		TIP4 = "Hit, finish, get back to position.",
 		TIP5 = "Create a ritual for serving. Walk yourself through the steps.",
 		TIP6 = "Focus on accuracy first for your serve.  Then go speed.",
