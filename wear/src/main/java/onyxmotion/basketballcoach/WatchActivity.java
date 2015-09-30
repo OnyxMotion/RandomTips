@@ -80,15 +80,15 @@ public class WatchActivity extends Activity {
     }
 
 	public static final String
-		TIP1 = "Keep your elbows in.",
-		TIP2 = "Point your toes at the net.",
-		TIP3 = "Make sure your legs and arms are launching at the same time.",
-		TIP4 = "Aim for a higher arc.",
-		TIP5 = "Snap your wrist for the follow through and hold for 3 seconds.",
-		TIP6 = "Take a deep breath. Do three dribbles.  Shoot.",
-		TIP7 = "You're doing great.",
-		TIP8 = "Make sure your shot pocket is high.",
-        TIP9 = "Start small, end tall. Bend your knees and spring up on your shot.";
+		TIP1 = "Exaggerate your follow through to keep it consistent.",
+		TIP2 = "Never let the ball bounce twice.  Run for every ball.",
+		TIP3 = "Prepare-Turn your hips and shoulders before the ball gets to your side.",
+		TIP4 = "Hit, finish, get back to position.",
+		TIP5 = "Create a ritual for serving. Walk yourself through the steps.",
+		TIP6 = "Focus on accuracy first for your serve.  Then go speed.",
+		TIP7 = "Get your back leg and weight behind the ball.",
+		TIP8 = "Drink on every changeover; snack on every other.",
+        TIP9 = "Don’t go for the line every shot. Be reliable, not risky.";
 
     @Override
     protected void onResume() {
